@@ -1,0 +1,42 @@
+.about-section {
+  position: relative;
+  z-index: 1;
+}
+
+.about-img {
+  text-align: center;
+}
+
+.about-img img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.contact-section {
+  text-align: center;
+  padding: 50px 0;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  margin-top: 30px;
+}
+
+.contact-section h1 {
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  color: #e2e8f0;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+  .about-img {
+    padding-top: 50px !important;
+  }
+  
+  .contact-section {
+    padding: 30px 20px;
+  }
+} 
