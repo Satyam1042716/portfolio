@@ -1,7 +1,7 @@
 # 🚀 Satyam Jaiswal - Portfolio Website
 
 <div align="center">
-  <img alt="Portfolio Demo" src="./Images/readme-img1" />
+  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
